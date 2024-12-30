@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-weixin-alipay:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springboot-weixin-alipay</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springboot-weixin-alipay-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-weixin-alipay:war exploded" />
+    </root>
+  </artifact>
+</component>
